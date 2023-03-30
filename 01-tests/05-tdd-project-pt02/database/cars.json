@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f8071e98-8882-4765-94da-92ef34b981ee",
+    "name": "Roadster",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1ea09506-6536-4cf9-a47e-d911aeb7c6b3",
+    "name": "Malibu",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a1cd3b44-e386-445b-b89c-af150c5c5172",
+    "name": "Sentra",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
